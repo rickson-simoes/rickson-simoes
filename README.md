@@ -6,7 +6,7 @@
 [Linkedin-Url]: https://www.linkedin.com/in/rickson-sim%C3%B5es-4b83a9166/ 
 [Linkedin-image]: https://img.shields.io/badge/My%20LinkedIn-blue?logo=LinkedIn
 
-[EmailURL]: rickson.simoes@hotmail.com
+[EmailURL]: mailto:rickson.simoes@hotmail.com
 [Email-image]: https://img.shields.io/badge/rickson.simoes@hotmail.com-orange?logo=Gmail
 
 
