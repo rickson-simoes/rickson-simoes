@@ -1,4 +1,4 @@
-<h2>Hello there :smiley_cat:</h2>
+<h2> </h2>
 
 [![LinkedinProfile][Linkedin-image]][Linkedin-Url] 
 [![Email][Email-image]][EmailURL]  
