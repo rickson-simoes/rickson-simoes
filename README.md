@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my Github Profile :rocket:
+
+[![LinkedinProfile][Linkedin-image]][Linkedin-Url]  
+
+[Linkedin-Url]: https://www.linkedin.com/in/rickson-sim%C3%B5es-4b83a9166/ 
+[Linkedin-image]: https://img.shields.io/badge/Linkedin-blue?logo=LinkedIn
+
 
 <!--
 **rickson-simoes/rickson-simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
