@@ -1,4 +1,4 @@
-<h2> </h2>
+<h1>Rickson Simões</h1>
 
 [![LinkedinProfile][Linkedin-image]][Linkedin-Url] 
 [![Email][Email-image]][EmailURL]  
