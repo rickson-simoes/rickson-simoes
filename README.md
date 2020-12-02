@@ -1,4 +1,4 @@
-### Welcome to my Github Profile :rocket:
+<h2>Welcome to my Github Profile :rocket:</h2>
 
 [![LinkedinProfile][Linkedin-image]][Linkedin-Url]  
 
