@@ -1,9 +1,13 @@
-<h2>Welcome to my Github Profile :rocket:</h2>
+<h2>:sparkler: Welcome to my Github Profile :rocket:</h2>
 
-[![LinkedinProfile][Linkedin-image]][Linkedin-Url]  
+[![LinkedinProfile][Linkedin-image]][Linkedin-Url] 
+[![Email][Email-image]][EmailURL]  
 
 [Linkedin-Url]: https://www.linkedin.com/in/rickson-sim%C3%B5es-4b83a9166/ 
-[Linkedin-image]: https://img.shields.io/badge/Linkedin-blue?logo=LinkedIn
+[Linkedin-image]: https://img.shields.io/badge/My%20LinkedIn-blue?logo=LinkedIn
+
+[EmailURL]: rickson.simoes@hotmail.com
+[Email-image]: https://img.shields.io/badge/rickson.simoes@hotmail.com-orange?logo=Gmail
 
 
 <!--
