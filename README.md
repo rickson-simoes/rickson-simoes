@@ -1,4 +1,4 @@
-<h2>:sparkler: Welcome to my Github Profile :rocket:</h2>
+<h2>Hello there :smiley_cat:</h2>
 
 [![LinkedinProfile][Linkedin-image]][Linkedin-Url] 
 [![Email][Email-image]][EmailURL]  
@@ -9,7 +9,7 @@
 [EmailURL]: mailto:rickson.simoes@hotmail.com
 [Email-image]: https://img.shields.io/badge/rickson.simoes@hotmail.com-orange?logo=Gmail
 
-
+<i>What we do in life, echoes in eternity.</i>
 <!--
 **rickson-simoes/rickson-simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
